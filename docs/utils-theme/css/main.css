@@ -8463,8 +8463,6 @@ textarea::-webkit-scrollbar {
 }
 
 .platform-win [aria-label="USER_SETTINGS"] .sidebar-CFHs9e .item-PXvHYJ:nth-child(18):before,.platform-osx [aria-label="USER_SETTINGS"] .sidebar-CFHs9e .item-PXvHYJ:nth-child(16):before,.platform-linux [aria-label="USER_SETTINGS"] .sidebar-CFHs9e .item-PXvHYJ:nth-child(16):before,.platform-web [aria-label="USER_SETTINGS"] .sidebar-CFHs9e .item-PXvHYJ:nth-child(16):before {
-  width: 24px;
-  height: 24px;
   background-image: url(https://ludo-code.github.io/mr-bot/utils-theme/image/appearance.svg);
 }
 
