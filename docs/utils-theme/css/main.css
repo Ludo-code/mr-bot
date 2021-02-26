@@ -523,7 +523,7 @@ body,button,input,select,textarea,::placeholder {
 }
 
 .toolbar-1t6TWx .icon-22AiRD[name=Nova_CallVideo] {
-  background: url(https://ludo-code.github.io/mr-bot/utils-theme/image/language.svg) center/24px no-repeat;
+  background: url(https://ludo-code.github.io/mr-bot/utils-theme/image/videocam.svg) center/24px no-repeat;
 }
 
 .toolbar-1t6TWx .icon-22AiRD[name=Nova_UserAdd] {
@@ -8455,7 +8455,7 @@ textarea::-webkit-scrollbar {
 }
 
 .platform-win [aria-label="USER_SETTINGS"] .sidebar-CFHs9e .item-PXvHYJ:nth-child(16):before,.platform-osx [aria-label="USER_SETTINGS"] .sidebar-CFHs9e .item-PXvHYJ:nth-child(20):before,.platform-linux [aria-label="USER_SETTINGS"] .sidebar-CFHs9e .item-PXvHYJ:nth-child(19):before,.platform-web [aria-label="USER_SETTINGS"] .sidebar-CFHs9e .item-PXvHYJ:nth-child(19):before {
-  background-image: url(https://ludo-code.github.io/mr-bot/utils-theme/image/videocam.svg);
+  background-image: url(https://ludo-code.github.io/mr-bot/utils-theme/image/language.svg);
 }
 
 .platform-win [aria-label="USER_SETTINGS"] .sidebar-CFHs9e .item-PXvHYJ:nth-child(17):before,.platform-osx [aria-label="USER_SETTINGS"] .sidebar-CFHs9e .item-PXvHYJ:nth-child(15):before,.platform-linux [aria-label="USER_SETTINGS"] .sidebar-CFHs9e .item-PXvHYJ:nth-child(15):before,.platform-web [aria-label="USER_SETTINGS"] .sidebar-CFHs9e .item-PXvHYJ:nth-child(15):before {
@@ -8467,7 +8467,7 @@ textarea::-webkit-scrollbar {
 }
 
 .platform-win [aria-label="USER_SETTINGS"] .sidebar-CFHs9e .item-PXvHYJ:nth-child(19):before,.platform-osx [aria-label="USER_SETTINGS"] .sidebar-CFHs9e .item-PXvHYJ:nth-child(22):before,.platform-linux [aria-label="USER_SETTINGS"] .sidebar-CFHs9e .item-PXvHYJ:nth-child(21):before,.platform-web [aria-label="USER_SETTINGS"] .sidebar-CFHs9e .item-PXvHYJ:nth-child(21):before {
-  background-image: url(https://ludo-code.github.io/mr-bot/utils-theme/image/language.svg);
+  background-image: url(https://ludo-code.github.io/mr-bot/utils-theme/image/videocam.svg);
 }
 
 .platform-win [aria-label="USER_SETTINGS"] .sidebar-CFHs9e .item-PXvHYJ:nth-child(20):before {
