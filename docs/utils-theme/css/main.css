@@ -3663,7 +3663,7 @@ code {
   height: 30px;
   box-sizing: border-box;
   padding-left: 30px;
-  background-image: url(https://clearvision.gitlab.io/icons/file.svg);
+  background-image: url(https://ludo-code.github.io/mr-bot/utils-theme/image/file.svg);
   background-position: center;
   background-size: 100%;
   background-repeat: no-repeat;
@@ -3671,39 +3671,39 @@ code {
 }
 
 :not(.embedWrapper-3AbfJJ)>.icon-1kp3fr[title=unknown] {
-  background-image: url(https://clearvision.gitlab.io/icons/file_upload.svg);
+  background-image: url(https://ludo-code.github.io/mr-bot/utils-theme/image/file_upload.svg);
 }
 
 .icon-1kp3fr[title=document] {
-  background-image: url(https://clearvision.gitlab.io/icons/file_document.svg);
+  background-image: url(https://ludo-code.github.io/mr-bot/utils-theme/image/file_document.svg);
 }
 
 .icon-1kp3fr[title=archive] {
-  background-image: url(https://clearvision.gitlab.io/icons/file_archive.svg);
+  background-image: url(https://ludo-code.github.io/mr-bot/utils-theme/image/file_archive.svg);
 }
 
 .icon-1kp3fr[title=code] {
-  background-image: url(https://clearvision.gitlab.io/icons/file_code.svg);
+  background-image: url(https://ludo-code.github.io/mr-bot/utils-theme/image/file_code.svg);
 }
 
 .icon-1kp3fr[title=webcode] {
-  background-image: url(https://clearvision.gitlab.io/icons/file_webcode.svg);
+  background-image: url(https://ludo-code.github.io/mr-bot/utils-theme/image/file_webcode.svg);
 }
 
 .icon-1kp3fr[title=ai],.icon-1kp3fr[title=ps],.icon-1kp3fr[title=photoshop],.icon-1kp3fr[title=sketch] {
-  background-image: url(https://clearvision.gitlab.io/icons/file_image.svg);
+  background-image: url(https://ludo-code.github.io/mr-bot/utils-theme/image/file_image.svg);
 }
 
 .icon-1kp3fr[title=ae] {
-  background-image: url(https://clearvision.gitlab.io/icons/file_video.svg);
+  background-image: url(https://ludo-code.github.io/mr-bot/utils-theme/image/file_video.svg);
 }
 
 .icon-1kp3fr[title=spreadsheet] {
-  background-image: url(https://clearvision.gitlab.io/icons/file_table.svg);
+  background-image: url(https://ludo-code.github.io/mr-bot/utils-theme/image/file_table.svg);
 }
 
 .icon-1kp3fr[title=acrobat] {
-  background-image: url(https://clearvision.gitlab.io/icons/file_pdf.svg);
+  background-image: url(https://ludo-code.github.io/mr-bot/utils-theme/image/file_pdf.svg);
 }
 
 .fileNameLink-9GuxCo {
