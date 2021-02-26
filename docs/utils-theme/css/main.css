@@ -21,7 +21,7 @@
   --avatar-roundness: 50%;
   --background-shading: 100%;
   --background-overlay: rgba(0, 0, 0, .6);
-  --background-image: url(https://clearvision.gitlab.io/images/sapphire.jpg);
+  --background-image: url(https://ludo-code.github.io/mr-bot/utils-theme/image/background/background.png);
   --background-position: center;
   --background-size: cover;
   --background-repeat: no-repeat;
@@ -70,7 +70,7 @@
   --user-modal-grayscale: var(--background-grayscale);
   --user-modal-sepia: var(--background-sepia);
   --user-modal-blur: calc(var(--background-blur) + 3px);
-  --home-icon: url(https://clearvision.gitlab.io/icons/discord.svg);
+  --home-icon: url(https://ludo-code.github.io/mr-bot/utils-theme/image/discord.svg);
   --home-position: center;
   --home-size: 40px;
 }
@@ -3567,7 +3567,7 @@ code {
 
 .topic-TCb_qw .wrapper-3WhCwL:hover,.markup-2BOw-j .wrapper-3WhCwL:hover {
   background: var(--main-color);
-  color: #fff;
+  color: #cd46c9;
 }
 
 .topic-TCb_qw strong>.wrapper-3WhCwL,.topic-TCb_qw strong>.mention,.markup-2BOw-j strong>.wrapper-3WhCwL,.markup-2BOw-j strong>.mention {
